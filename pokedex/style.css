@@ -1,0 +1,10 @@
+.itemBody{
+    display: inline-block;
+}
+main{
+    background-color: bisque;
+}
+
+#titulo{
+    background-color: red;
+}
